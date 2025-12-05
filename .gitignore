@@ -217,6 +217,7 @@ __marimo__/
 *.tfstate
 *.tfstate.backup
 *.tfvars
+*.tfvars.json
 
 # Custom Secrets (내 프로젝트 전용)
 secrets.json
